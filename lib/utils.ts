@@ -1,4 +1,4 @@
-export interface DateRange {
+.export interface DateRange {
   startDate: Date;
   endDate: Date;
 }
